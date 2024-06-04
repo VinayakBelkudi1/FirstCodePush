@@ -2,6 +2,7 @@
 public class GitPush {
 public static void main(String[] args) {
 	System.out.println("Hello");
-	System.out.println("Hi nehuuuu pillu");
+	System.out.println("Hi hi");
+	System.out.println("hello hello");
 }
 }
