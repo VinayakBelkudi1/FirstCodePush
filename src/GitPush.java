@@ -5,5 +5,6 @@ public static void main(String[] args) {
 	System.out.println("Hi hi");
 	System.out.println("hello hello");
 	System.out.println("Helloooooo");
+	System.out.println("Changes in master");
 }
 }
